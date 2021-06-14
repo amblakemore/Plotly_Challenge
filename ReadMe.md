@@ -8,6 +8,6 @@ We start by using the D3 librbary to reach through our samples.json data to disp
 
 ![Alt text](/cors_blakemore/cultures.png?raw=true)
 
-We use the drop down function to display all the Test Subject IDs. When the Test Subject ID is selected, the demographic information is updated using the optionChanged functioned.
+We use the drop down function to display all the Test Subject IDs. When the Test Subject ID is selected, the demographic information is updated using the optionChanged function.
 
 ![Alt text](/cors_blakemore/change.png?raw=true)
