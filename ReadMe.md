@@ -1,6 +1,5 @@
 # Belly Button Biodiversity
-
-![Alt text](cors_blakemore/background.png?raw=true)
+![Alt text](cors_blakemore/background.png?raw=true "Title")
 
 Please use https://amblakemore.github.io/cors_blakemore/  to properly launch the site
 
